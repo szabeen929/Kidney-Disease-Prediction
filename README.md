@@ -1,1 +1,3 @@
 # Kidney-Disease-Prediction
+
+The Behavioral Risk Factor Surveillance System published by CDC was chosen for this project. I have identified various lifestyle factors from the dataset as recorded from the respondents and tried to link which of those may predict likelihood of getting a kidney disease in future. Since this is a nationwide survey, there are more than a million instances and over 2000 columns. However only the required columns was selected and a subset of the dataset was created. The business problem is to come up with an algorithm that best predicts likelihood of kidney disease of a person based on lifestyle factors.
